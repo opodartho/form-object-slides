@@ -1,0 +1,14 @@
+{
+  "generator-mocha": {
+    "ui": "tdd",
+    "rjs": false
+  },
+  "generator-reveal": {
+    "presentationTitle": "form object",
+    "packageVersion": "0.0.1",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "opodartho",
+    "githubRepository": "form-object-slides"
+  }
+}

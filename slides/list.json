@@ -1,0 +1,10 @@
+[
+    "index.md",
+    "responsibilities.md",
+    [
+        "new-action.md",
+        "new-post-form.md",
+        "create-action.md",
+        "validation.md"
+    ]
+]
