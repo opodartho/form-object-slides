@@ -3,13 +3,17 @@
     "responsibilities.md",
     [
         "new-action.md",
-        "new-post-form.md",
-        "create-action.md",
-        "validation.md"
-    ],
-    [
         "reform-new.md",
-        "reform-post-form.md"
+        "reform-post-form.md",
+        "new-album-form.md",
+        "reform-album-form.md",
+        "validation.md",
+        "reform-validation.md",
+        "rails-prepopulate.md",
+        "prepopulate.md",
+        "rails-populate.md",
+        "reform-populate.md"
     ],
+    "questions.md",
     "thank-you.md"
 ]

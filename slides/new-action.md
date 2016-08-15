@@ -2,6 +2,6 @@
 
 ```ruby
 def new
-  @post = Post.new
+  @post = Album.new
 end
 ```

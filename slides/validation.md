@@ -2,7 +2,7 @@
 
 ```ruby
 
-class Post < ActiveRecord::Base
+class Album < ActiveRecord::Base
   validates :title, presence: true
   validates :description, presence: true
   ...

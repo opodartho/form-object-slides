@@ -2,6 +2,6 @@
 
 ```ruby
 def new
-  @form = PostForm.new(Post.new)
+  @form = AlbumForm.new(Album.new)
 end
 ```

@@ -2,17 +2,17 @@
 
 ```ruby
 
-class PostController < ApplicationController
+class AlbumController < ApplicationController
   ...
   def create
-    @post = Post.create!(post_params)
+    @album = Album.create!(album_params)
     #render
   end
   ...
   private
 
-  def post_params
-    params.require(:post).permit(:name, :description)
+  def album_params
+    params.require(:album).permit(:title, :description)
   end
   ...
 end
